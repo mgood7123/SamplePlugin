@@ -1,4 +1,4 @@
-plugins { greet }
+plugins { id("greet") }
 
 apply plugin: 'com.android.application'
 
